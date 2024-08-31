@@ -1,4 +1,0 @@
-Accuracy: 100.00
-Mean F1 Score: 100.00
-AUC 0.9722
-f1 scores: 1, 1, 1, 1, 1
